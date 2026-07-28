@@ -1,6 +1,6 @@
 # Cyox Games - Home e Login
 
-Atividade avaliativa do curso **Codificação Front-End (SENAI)**, referente ao desenvolvimento das páginas **Home** e **Login** de um site fictício de e-commerce de jogos (LH Games), a partir de um layout já definido.
+Atividade avaliativa do curso **Codificação Front-End (SENAI)**, referente ao desenvolvimento das páginas **Home** e **Login** de um site fictício de e-commerce de jogos (Cyox Games), a partir de um layout já definido.
 ## 🔗 Link para o site: https://caio9correa.github.io/SITE-ATIVIDADE_SENAI/
 ## 📋 Descrição da atividade
 
